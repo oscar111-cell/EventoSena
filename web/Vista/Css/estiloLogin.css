@@ -1,0 +1,272 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19/09/2019, 05:26:24 PM
+    Author     : Oscar Castro
+*/
+
+
+
+#navbar navbar-inverse{
+    background-position: center center;
+        background-size: cover;
+        position: relative;
+        bottom: 0px;
+        top: 0px;
+        margin: 0;
+        left: 0; 
+}
+
+#Imagen{
+   width: 100px;
+    display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border:none;
+      height: auto;
+      position: relative;
+      margin: 0 auto;
+      top: -10px;
+}
+
+.Tabla{
+    position: absolute;
+    top: 337px;
+    left: 750px ;
+    transform: translate(-50%, -50%);
+    width: 95%;
+    max-width: 500px;
+    margin: auto;
+}
+
+.Tabla1{
+    position: absolute;
+    top: 504px;
+    left: 735px;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    max-width: 500px;
+}
+
+.Tabla2{
+    position: absolute;
+    top: 123px;
+    left: 750px ;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    max-width: 500px;
+}
+
+.Tabla3{
+    position: absolute;
+    top: 393px;
+    left: 735px;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    max-width: 500px;
+}
+
+.Tabla4{
+    position: absolute;
+    top: 114px;
+    left: 735px;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    max-width: 500px;
+}
+
+.Ini{
+    align-content: center;
+        font-size: 34px;
+     color:#fff;
+     margin-top: 70px;
+    margin-left: 62px;
+    margin-bottom: 30px;
+}
+.Ini1{
+align-content: center;
+font-size: 33px;
+color: #fff;
+margin-top: 65px;
+margin-left: 65px;
+margin-bottom: 34px;
+}
+.Ini2{
+align-content: center;
+font-size: 29px;
+color: #fff;
+margin-top: 650px;
+margin-left: 49px;
+margin-bottom: 23px;
+}
+.Ini3{
+align-content: center;
+font-size: 28px;
+color: #fff;
+margin-top: 650px;
+margin-left: 23px;
+margin-bottom: 64px;
+}
+
+.Ini4{
+    align-content: center;
+    font-size: 34px;
+    color:#fff;
+    margin-top: 70px;
+    margin-left: 16px;
+    margin-bottom: 30px;
+}
+
+.Ini5{
+    align-content: center;
+    font-size: 34px;
+    color:#fff;
+    margin-top: 70px;
+    margin-left: -35px;
+    margin-bottom: 30px;
+}
+
+input{
+    display: block;
+    padding: 10px;
+    width: 70%;
+    margin-bottom: 15px;
+    font-size: 15px;
+    top: 0;
+    right: 0;
+    border: none;
+    left: 40px;
+}
+#cbsexo{
+     display: block;
+    padding: 10px;
+    width: 70%;
+    margin-bottom: 15px;
+    font-size: 15px;
+    top: 0;
+    right: 0;
+    border: none;
+    left: 40px;
+}
+#cbRol{
+     display: block;
+    padding: 10px;
+    width: 70%;
+    margin-bottom: 15px;
+    font-size: 15px;
+    top: 0;
+    right: 0;
+    border: none;
+    left: 40px; 
+}
+#cbEvento{
+     display: block;
+    padding: 10px;
+    width: 70%;
+    margin-bottom: 15px;
+    font-size: 15px;
+    top: 0;
+    right: 0;
+    border: none;
+    left: 40px; 
+}
+
+.boton{
+   border-radius: 10px;
+   background: #03999C;
+   cursor: pointer;
+   font-size: 15px;
+   width: 119px;
+   padding: 9px 20px;
+   position: relative;
+   left: 108px;
+   margin-top: 66px;
+}
+.boton:hover{
+    background: #00424B;
+    
+    /*Color:#248188, #00424B*/
+}
+
+.boton1{
+   margin-top: 40px;
+   border-radius: 10px;
+   background: #03999C;
+   cursor: pointer;
+   font-size: 16px;
+   width: 122px;
+   padding: 8px 30px;
+   position: relative;
+   left: 117px;
+}
+.boton1:hover{
+    background: #00424B;
+}
+.tex1{
+font-size: 16px;
+color: #fff;
+margin-left: 25px;
+margin-top: 38px;
+}
+
+.mensaje{
+    align-items:center;
+    font-size: 16px;
+    color: #fff;
+    margin-left: 25px;
+}
+
+.mensaje2{
+    align-items:center;
+    font-size: 16px;
+    color: #fff;
+    margin-left: -158px; 
+}
+
+.mensaje1{
+    align-items:center;
+    font-size: 16px;
+    color: #fff;
+    margin-left: 572px;
+    margin-top: 269px;
+}
+.link{
+    text-decoration: none; 
+    color: rgba(236, 240, 241, .8);
+    font-weight: 600;
+}
+.link:hover{
+    color: rgba(0, 168, 255, .5);
+}
+.tex2{
+    margin: 49px 87px -1px;
+}
+.link1{
+    text-decoration: none;
+    color: rgba(0,0,0,0.5);
+    font-weight: 600;
+}
+.link1:hover{
+    color: #008140;
+}
+.container-fluid{
+    padding-right: 18px;
+    padding-left: 9px;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+  
+   	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+@media(max-width: 400px){
+    form{
+        width: 100%;
+    }
+}

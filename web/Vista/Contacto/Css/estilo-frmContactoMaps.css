@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5/10/2019, 11:19:25 AM
+    Author     : Kevin Cutiva
+*/
+.maps{
+    cursor: pointer;
+    position: absolute;
+    top: -91px;
+    left: -80px;
+}
+        
+.texdireccion{
+font-size: 16px;
+position: absolute;
+color: #fff;
+margin-left: 558px;
+margin-top: 50px;
+text-align: center;
+}
+
+.texcorreo{
+font-size: 19px;
+position: absolute;
+color: #fff;
+margin-left: 648px;
+margin-top: 94px;
+text-align: center;
+}
+
+.IniUbi{
+     align-content: center;
+        font-size: 34px;
+     color:#fff;
+   margin-top: 0px;
+margin-left: 558px;
+margin-bottom: -35px;
+}
+
+.textLi{
+    position: absolute;
+      align-content: center;
+     color:#fff;
+   margin-top: 59px;
+margin-left: 549px;
+margin-bottom: 3px; 
+}
+
+.textLi1{
+    position: absolute;
+      align-content: center;
+     color:#fff;
+   margin-top: 75px;
+margin-left: 600px;
+margin-bottom: -35px; 
+}
